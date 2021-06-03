@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act for an assessment at the rate of five and thirty thousand pounds by the moneth upon England, six thousand pounds by the moneth upon Scotland, and nine thousand pounds by the moneth upon Ireland, for three years; from the twenty fourth of June 1657. For a temporary supply towards the maintenance of the armies and navies of this Commonvvealth· At the Parliament begun at Westminster the 17th day of September, An. Dom. 1656.</title>
+            <title>Laws, etc. (Public general acts)</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 42KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21822</idno><idno type="EEBO-CITATION">99883682</idno>
+  <idno type="VID">190672</idno>
+  <idno type="EEBO-PROQUEST">2240876158</idno>
+  
+            <idno type="STC">Wing E995D</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.b.16[1]</idno>
+            <idno type="STC">ESTC R211052</idno>
+            <idno type="PROQUEST">ocm99883682</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883682e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190672)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C23:2[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act for an assessment at the rate of five and thirty thousand pounds by the moneth upon England, six thousand pounds by the moneth upon Scotland, and nine thousand pounds by the moneth upon Ireland, for three years; from the twenty fourth of June 1657. For a temporary supply towards the maintenance of the armies and navies of this Commonvvealth· At the Parliament begun at Westminster the 17th day of September, An. Dom. 1656.</title>
+                  <title>Laws, etc. (Public general acts)</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and Iohn Field, printers to His Highness.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In this edition, line 18 of title ends "Westminster".</note>
+                  <note>On A2r: last word in first line of text: 'by'; first word under initial: 'nance'; last word in last full line of text: 'several'.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Internal revenue --  England --  Law and legislation --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:190672:1"/>
+            <pb facs="tcp:190672:1"/>
+            <p> AN ACT FOR AN ASSESSMENT At the Rate of Five and thirty thousand Pounds by the Moneth upon <hi>England,</hi> Six thousand Pounds by the Moneth upon <hi>Scotland,</hi> And Nine thousand Pounds by the Moneth upon <hi>Ireland,</hi> FOR THREE YEARS; FROM The twenty fourth of <hi>June</hi> 1657.</p>
+            <p>For a Temporary Supply towards the Maintenance of the Armies and Navies of this COMMONVVEALTH.</p>
+            <p>At the Parliament begun at <hi>Westminster</hi> the 17<seg rend="sup">th</seg> day of <hi>September, An. Dom.</hi> 1656.</p>
+            <figure>
+               <figDesc>coat of arms of the Commonwealth of England, circa 1657</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Henry Hills</hi> and <hi>Iohn Field,</hi> Printers to His Highness. 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:190672:2"/>
+            <head>Rates and Proportions, and in such maner as is hereafter expressed, that is to say; For eve<g ref="char:EOLhyphen"/>ry Moneth of the said three years:</head>
+            <p>UPon the County of <hi>Bedford,</hi> the Sum of Four hundred threescore and six pounds thirteen shillings and four pence.</p>
+            <p>The County of <hi>Berks,</hi> the sum of Five hun<g ref="char:EOLhyphen"/>dred forty four pounds eight shillings and eleven pence.</p>
+            <p>The County of <hi>Bucks,</hi> the sum of six hun<g ref="char:EOLhyphen"/>dred forty one pounds thirteen shillings and four pence.</p>
+            <p>The County of <hi>Cambridge,</hi> the sum of five hundred fifty one pounds and five shillings.</p>
+            <p>The Isle of <hi>Ely,</hi> the sum of one hundred four<g ref="char:EOLhyphen"/>score and three pounds and fifteen shillings.</p>
+            <p>The County of <hi>Chester,</hi> the sum of three hundred fourscore and five pounds.</p>
+            <p>The City and County of the City of <hi>Chester,</hi> the sum of forty two pounds fifteen shillings and seven pence.</p>
+            <p>The County of <hi>Cornwal,</hi> the sum of eight hundred and sixteen pounds thirteen shillings and four pence.</p>
+            <p>The County of <hi>Cumberland,</hi> the sum of fifty four pounds.</p>
+            <p>The County of <hi>Derby,</hi> the sum of four hun<g ref="char:EOLhyphen"/>dred threescore and six pounds thirteen shil<g ref="char:EOLhyphen"/>lings and four pence.</p>
+            <p>The County of <hi>Devon,</hi> the sum of one thou<g ref="char:EOLhyphen"/>sand five hundred and one pounds seventeen shillings and nine pence.</p>
+            <p>The City and County of the City of <hi>Exon,</hi> the sum of fifty three pounds thirteen shillings and four pence.</p>
+            <pb n="3" facs="tcp:190672:2"/>
+            <p> The county of <hi>Dorset,</hi> the sum of six hun<g ref="char:EOLhyphen"/>dred fifty five pounds fifteen shillings and three pence.</p>
+            <p>The town and county of <hi>Pool,</hi> the sum of Five pounds and seven shillings.</p>
+            <p>The county of <hi>Durham,</hi> the sum of Three<g ref="char:EOLhyphen"/>score and sixteen pounds seventeen shillings and two pence.</p>
+            <p>The county of <hi>York,</hi> with the city and coun<g ref="char:EOLhyphen"/>ty of the city of <hi>York,</hi> the sum of One thousand five hundred twenty one pounds fourteen shil<g ref="char:EOLhyphen"/>lings and five pence.</p>
+            <p>The town and county of <hi>Kingston</hi> upon <hi>Hull,</hi> the sum of Thirty three pounds sixteen shil<g ref="char:EOLhyphen"/>lings and eight pence.</p>
+            <p>The county of <hi>Essex,</hi> the sum of One thou<g ref="char:EOLhyphen"/>sand seven hundred and fifty pounds.</p>
+            <p>The county of <hi>Glocester,</hi> the sum of Eight hundred and thirteen pounds three shillings and four pence.</p>
+            <p>The city and county of the city of <hi>Glocester,</hi> the sum of Fourscore and one pounds five shil<g ref="char:EOLhyphen"/>lings and seven pence.</p>
+            <p>The county of <hi>Hereford,</hi> the sum of Five hun<g ref="char:EOLhyphen"/>dred fourscore and three pounds six shillings and eight pence.</p>
+            <p>The county of <hi>Hertford,</hi> the sum of Seven hundred pounds.</p>
+            <p>The county of <hi>Huntington,</hi> the sum of Three hundred and eleven pounds two shillings and three pence.</p>
+            <p>The county of <hi>Kent,</hi> with the city and coun<g ref="char:EOLhyphen"/>ty of the city of <hi>Canterbury,</hi> the sum of One thousand eight hundred twenty seven pounds fifteen shillings and seven pence.</p>
+            <p>The county of <hi>Lancaster,</hi> the sum of Four
+<pb n="4" facs="tcp:190672:3"/> hundred threescore and six pounds thirteen shil<g ref="char:EOLhyphen"/>lings and four pence.</p>
+            <p>The county of <hi>Leicester,</hi> the sum of Five hundred forty four pounds eight shillings and ten pence.</p>
+            <p>The county of <hi>Lincoln,</hi> with the city and county of the city of <hi>Lincoln,</hi> the sum of One thousand three hundred threescore and one pounds two shillings and five pence.</p>
+            <p>The city of <hi>London,</hi> the sum of Two thou<g ref="char:EOLhyphen"/>sand three hundred thirty three pounds six shil<g ref="char:EOLhyphen"/>lings and eight pence.</p>
+            <p>The county of <hi>Middlesex,</hi> with the city and liberty of <hi>Westminster,</hi> the sum of Eight hun<g ref="char:EOLhyphen"/>dred fourscore and fourteen pounds eight shil<g ref="char:EOLhyphen"/>lings and eleven pence.</p>
+            <p>The county of <hi>Monmouth,</hi> the sum of Two hundred thirty three pounds six shillings and eight pence.</p>
+            <p>The county of <hi>Northampton,</hi> the sum of Se<g ref="char:EOLhyphen"/>ven hundred pounds.</p>
+            <p>The county of <hi>Notingham,</hi> the sum of Four hundred fifty one pounds twelve shillings and two pence.</p>
+            <p>The town and county of the town of <hi>No<g ref="char:EOLhyphen"/>tingham,</hi> the sum of Fifteen pounds one shilling and two pence.</p>
+            <p>The county of <hi>Norfolk,</hi> the sum of One thousand eight hundred and twelve pounds four shillings and five pence.</p>
+            <p>The city and county of the city of <hi>Norwich,</hi> the sum of Fourscore and thirteen pounds, six shillings and eight pence.</p>
+            <p>The county of <hi>Northumberland,</hi> the sum of Fourscore and nine pounds nineteen shillings and eleven pence.</p>
+            <pb n="5" facs="tcp:190672:3"/>
+            <p> The town of <hi>Newcastle,</hi> the sum of seventeen pounds fifteen shillings and ten pence.</p>
+            <p>The county of <hi>Oxon,</hi> the sum of five hun<g ref="char:EOLhyphen"/>dred threescore and three pounds seventeen shil<g ref="char:EOLhyphen"/>lings and nine pence.</p>
+            <p>The county of <hi>Rutland,</hi> the sum of one hun<g ref="char:EOLhyphen"/>dred thirty six pounds two shillings and three pence.</p>
+            <p>The county of <hi>Salop,</hi> the sum of six hundred threescore and one pounds two shillings and two pence.</p>
+            <p>The county of <hi>Stafford,</hi> the sum of four hun<g ref="char:EOLhyphen"/>dred fifty nine pounds thirteen shillings and four pence.</p>
+            <p>The city and county of the city of <hi>Litchfield,</hi> the sum of seven pounds.</p>
+            <p>The county of <hi>Somerset,</hi> the sum of one thou<g ref="char:EOLhyphen"/>sand three hundred threescore and one pounds two shillings and three pence.</p>
+            <p>The city and county of the city of <hi>Bristol,</hi> the sum of fourscore and five pounds eleven shillings and one peny.</p>
+            <p>The county of <hi>Southampton,</hi> with the town and county of <hi>Southampton,</hi> the sum of one thousand and eleven pounds two shillings and two pence.</p>
+            <p>The county of <hi>Suffolk,</hi> the sum of one thou<g ref="char:EOLhyphen"/>sand eight hundred twenty seven pounds fif<g ref="char:EOLhyphen"/>teen shillings and seven pence.</p>
+            <p>The county of <hi>Surrey,</hi> the sum of seven hun<g ref="char:EOLhyphen"/>dred fourscore and two pounds twelve shil<g ref="char:EOLhyphen"/>lings and nine pence.</p>
+            <p>The Borough of <hi>Southwark,</hi> the sum of four<g ref="char:EOLhyphen"/>score and twelve pounds seven shillings and three pence.</p>
+            <p>The county of <hi>Suffex,</hi> the sum of nine hun<g ref="char:EOLhyphen"/>dred
+<pb n="6" facs="tcp:190672:4"/> fifty two pounds fifteen shillings and se<g ref="char:EOLhyphen"/>ven pence.</p>
+            <p>The county of <hi>Warwick,</hi> with the city and county of the city of <hi>Coventry,</hi> the sum of six hundred twenty two pounds four shillings and five pence.</p>
+            <p>The county of <hi>Worcester,</hi> the sum of five hun<g ref="char:EOLhyphen"/>dred fourscore and eleven pounds two shillings and two pence.</p>
+            <p>The city and county of the city of <hi>Worcester,</hi> the sum of Thirty one pounds two shillings and three pence.</p>
+            <p>The county of <hi>Wilts,</hi> the sum of Nine hun<g ref="char:EOLhyphen"/>dred threescore and twelve pounds four shil<g ref="char:EOLhyphen"/>lings and five pence.</p>
+            <p>The county of <hi>Westmerland,</hi> the sum of thirty six pounds nineteen shillings and eight pence.</p>
+            <p>The Isle of <hi>Anglesey,</hi> the sum of threescore and seven pounds seventeen shillings and two pence.</p>
+            <p>The county of <hi>Brecknock,</hi> the sum of One hundred and fourscore pounds sixteen shillings and eight pence.</p>
+            <p>The county of <hi>Cardigan,</hi> the sum of One hundred and six pounds and fifteen shillings.</p>
+            <p>The county of <hi>Carmarthen,</hi> the sum of One hundred threescore and sixteen pounds three shillings and four pence.</p>
+            <p>The county of <hi>Carnarvan,</hi> the sum of One hundred and one pounds two shillings and two pence.</p>
+            <p>The county of <hi>Denbigh,</hi> the sum of One hun<g ref="char:EOLhyphen"/>dred thirty six pounds two shillings and three pence.</p>
+            <p>The county of <hi>Flint,</hi> the sum of threescore
+<pb n="7" facs="tcp:190672:4"/> and sevon pounds seventeen shillings and three pence.</p>
+            <p>The County of <hi>Glamorgan,</hi> the sum of two hundred twenty nine pounds eight shillings and ten pence.</p>
+            <p>The County of <hi>Merioneth,</hi> the sum of three<g ref="char:EOLhyphen"/>score and two pounds four shillings and five pence.</p>
+            <p>The County of <hi>Montgomery,</hi> the sum of one hundred forty seven pounds fifteen shillings and six pence.</p>
+            <p>The County of <hi>Pembrook,</hi> the sum of two hundred and three pounds.</p>
+            <p>The County of <hi>Radnor,</hi> the sum of one hun<g ref="char:EOLhyphen"/>dred twenty seven pounds three shillings and four pence.</p>
+            <p>The Town of <hi>Haverford-VVest,</hi> the sum of se<g ref="char:EOLhyphen"/>ven pounds five shillings and ten pence.</p>
+            <p>The Town of <hi>Berwick,</hi> the sum of two pounds eighteen shillings and four pence.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That the several Commissioners and other persons nominated and mentioned in an Act of this present Parliament (Entituled, <hi>An Act for an Assessment upon <hi>England,</hi> at the rate of Threescore thousand pounds by the Moneth, for Three Moneths, from the 25<seg rend="sup">th</seg> day of <hi>March,</hi> One thousand six hundred fifty and seven, to the Four and twentieth day of <hi>June</hi> then next ensuing)</hi> and such others as are hereby, or shall hereafter be added and Au<g ref="char:EOLhyphen"/>thorized, Shall be, and are hereby Authorized, appointed and continued respectively; And shall have, use, exercise, and put in Execution all and every the Powers and Authorities for the Assessing, Collecting, Levying, and Pay<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:190672:5"/> the said Three Years Assessments hereby appointed to be Assessed and paid, which they had and were Impowered and Appointed to use and exercise by the said recited Act, for the Assessing, Collecting, Levying and Payment of the aforesaid Three Moneths Assessment; And that the several Rules, Directions, Clauses and Proviso's mentioned and con<g ref="char:EOLhyphen"/>tained in the said recited Act, and the Powers and Authorities thereby given to all and every the persons therein named or mentioned, shall endure, and have continuance until the said Three years Assessment shall be fully and due<g ref="char:EOLhyphen"/>ly Collected, Levied, and paid in, according to the true intent and meaning of this Act.</p>
+            <p>For the better effecting whereof, It is here<g ref="char:EOLhyphen"/>by further Enacted, That the said several and respective Commissioners hereby appointed and continued for the said several and respe<g ref="char:EOLhyphen"/>ctive counties, cities and towns, shall meet to<g ref="char:EOLhyphen"/>gether at the most common and usual place of meeting in each of the said counties, cities and towns respectively, for their first general meet<g ref="char:EOLhyphen"/>ings, on or before every second day of <hi>July,</hi> and every second day of <hi>January;</hi> And for their se<g ref="char:EOLhyphen"/>cond general meetings, on or before every sixteenth day of <hi>July,</hi> and every sixteenth day of <hi>January</hi> in every of the said Years: And the said Commissioners, or so many of them as shall then and there respectively at<g ref="char:EOLhyphen"/>tend and be present, shall cause this present Act to be put in execution, for the ordering, direct<g ref="char:EOLhyphen"/>ing, managing, levying, and bringing in the Assessment by this Act required; so as the full sum charged upon each Division, Hundred, Parish, and Place for the first three Moneths
+<pb n="9" facs="tcp:190672:5"/> Assessments of each year, may be fully Asses<g ref="char:EOLhyphen"/>sed, Levied, Collected and paid in to the respe<g ref="char:EOLhyphen"/>ctive Receivers, on or befare the First day of <hi>September:</hi> The second Three Moneths Assess<g ref="char:EOLhyphen"/>ments, on or before the First day of <hi>December:</hi> The third Three Moneths Assessments, on or before the First day of <hi>March:</hi> And the last Three Moneths Assessments, on or before the First day of <hi>June,</hi> in every year, during the said three years respectively.</p>
+            <p>Provided always, and it is hereby further Enacted, That the Duplicates of Assessments by the fore-recited Act required to be delivered to the respective Receivers of each County, City, Town or Place, to be by him the said Receiver transmitted to the Lords Commis<g ref="char:EOLhyphen"/>sioners of the Treasury, shall by him the said Receiver be transmitted into His Highness Court of Exchequer at <hi>Westminster,</hi> together with the Names, Surnames, and places of abode of the respective Receivers, Collectors, and Sub-collectors of such Assesments, there to remain upon Record.</p>
+            <p>Provided nevertheless, and <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>t Enacted by the Authority aforesaid, Tha<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> case during the continuance of this present Parliament, any other more equal way of raising the said Monethly Assessment of Thirty five thousand pounds by the Moneth hereby appointed shall be found, and the Parliament shall make a Declaration to that purpose, That then such part of the said Assessment as shall be then uncollected, shall be Taxed, Assessed, Col<g ref="char:EOLhyphen"/>lected, Levied and Paid, according to such pro<g ref="char:EOLhyphen"/>portions upon the respective Counties and Places, or in such way, and for such time of the
+<pb n="10" facs="tcp:190672:6"/> said three years, as the Parliament shall by such Declaration direct and set down, and not according to the proportions in this Act ex<g ref="char:EOLhyphen"/>pressed, This Act or any thing therein con<g ref="char:EOLhyphen"/>tained to the contrary in any wise notwith<g ref="char:EOLhyphen"/>standing.</p>
+            <p>Provided always, That neither this Act nor the said Act for the said Assessment of Six<g ref="char:EOLhyphen"/>ty thousand pounds by the Moneth, or any thing therein contained, shall extend or be con<g ref="char:EOLhyphen"/>strued to authorize or impower the said Com<g ref="char:EOLhyphen"/>missioners▪ or any person or persons whatso<g ref="char:EOLhyphen"/>ever, to Raise or Levy the said Tax hereby Assessed or Taxed, or any part thereof, by Free Quarter, or by Quartering of Soldiers, Any thing in this Act, or in the said Act for the said Monethly Assessment to the contrary not<g ref="char:EOLhyphen"/>withstanding.</p>
+            <p>And be it further Enacted, That the one Moyety of the Assessment charged upon the County of <hi>Cardigan,</hi> in an Act of this present Parliament, Entituled, <hi>An Act for an Assessment upon <hi>England</hi> at the Rate of Sixty thousand pounds by the Moneth, <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>hree moneths, from the 25<seg rend="sup">th</seg> day of <hi>March,</hi> One thousand six hundred fifty seven, to the Twenty fourth day of <hi>Iune</hi> then next ensuing, shall be onely Levied, Collected and Paid▪ and the other Moyety of the said Three Moneths Assessment, toge<g ref="char:EOLhyphen"/>ther with the Moyety of all former Assessments char<g ref="char:EOLhyphen"/>ged upon the said County of <hi>Cardigan,</hi> since the 25<seg rend="sup">ht</seg> of <hi>December,</hi> One thousand six hundred forty nine, and remaining in arrear, shall be wholly remitted.</hi> And the said County of <hi>Cardigan</hi> shall be, and is hereby Declared to be fully acquitted and dis<g ref="char:EOLhyphen"/>charged therefrom, Any thing in the said Act, or former Acts or Ordinances, or Orders and
+<pb n="11" facs="tcp:190672:6"/> Declarations to the contrary thereof in any wise notwithstanding.</p>
+            <p>And it is hereby Enacted, That the Sum of Six thousand pounds Sterling by the month, shall be Taxed, Levied, Collected and Paid in <hi>Scotland</hi> for the space of Three years, commen<g ref="char:EOLhyphen"/>cing the <hi>24<seg rend="sup">th</seg>
+               </hi> day of <hi>June,</hi> in the Year of our Lord, One thousand six hundred fifty and se<g ref="char:EOLhyphen"/>ven, out of the several counties, cities, towns and places in <hi>Scotland.</hi> according to the several and respective proportions after mentioned, That is to say;</p>
+            <p>For the county of <hi>Aberdeen,</hi> for every Moneth of the said Three Years, the Sum of three hundred thirty and nine pounds sixteen shil<g ref="char:EOLhyphen"/>lings and seven pence.</p>
+            <p>For the Borough of <hi>Aberdeen,</hi> threescore and six pounds twelve shillings.</p>
+            <p>For the county of <hi>Aire,</hi> three hundred twenty and two pounds ten shillings and five pence.</p>
+            <p>For the Borough of <hi>Aire,</hi> thirteen pounds nineteen shillings nine pence three farthings.</p>
+            <p>For the town of <hi>Irwing,</hi> nine pounds nineteen shillings and eight pence.</p>
+            <p>For the county of <hi>Argile,</hi> one hundred three<g ref="char:EOLhyphen"/>score and two pounds five shillings and ten pence three farthings.</p>
+            <p>The county of <hi>Bamf,</hi> fourscore and fifteen pounds seventeen shillings.</p>
+            <p>The town of <hi>Bamf,</hi> three pounds.</p>
+            <p>The town of <hi>Collen,</hi> one pound and ten shil<g ref="char:EOLhyphen"/>lings.</p>
+            <p>The county of <hi>Berwick,</hi> two hundred thirty four pounds eight shillings and five pence.</p>
+            <p>The town of <hi>Lander,</hi> three pounds nine shil<g ref="char:EOLhyphen"/>lings
+<pb n="12" facs="tcp:190672:7"/> and seven pence farthing.</p>
+            <p>The county of <hi>Bute,</hi> five and twenty pounds fourteen shillings and two farthings.</p>
+            <p>The borough of <hi>Rothsay,</hi> three pounds.</p>
+            <p>The county of <hi>Cathnes,</hi> nine and forty pounds eighteen shillings and nine pence.</p>
+            <p>The county of <hi>Cleckmannen,</hi> nine and twen<g ref="char:EOLhyphen"/>ty pounds seven shillings and three pence far<g ref="char:EOLhyphen"/>thing.</p>
+            <p>The county of <hi>Cromart,</hi> five pounds thirteen shillings and nine pence.</p>
+            <p>The county of <hi>Dumbarton,</hi> threescore and three pounds fourteen shillings and two pence.</p>
+            <p>The borough of <hi>Dumbarton,</hi> six pounds.</p>
+            <p>The county of <hi>Dumfrees,</hi> two hundred twen<g ref="char:EOLhyphen"/>ty and six pounds one shilling and five pence.</p>
+            <p>The borough of <hi>Dumfrees,</hi> sixteen pounds and thirteen shillings.</p>
+            <p>The borough of <hi>Sanchar,</hi> one pound.</p>
+            <p>The borough of <hi>Lockmaben,</hi> one pound.</p>
+            <p>The borough of <hi>Annen,</hi> one pound.</p>
+            <p>The county of <hi>Edenburgh,</hi> two hundred sixty five pounds six shillings and six pence.</p>
+            <p>The city of <hi>Edenburgh,</hi> three hundred thirty four pounds and twelve shillings.</p>
+            <p>The county of <hi>Elgin,</hi> fourscore and eight pounds five shillings and five pence.</p>
+            <p>The borough of <hi>Elgin,</hi> six pounds thirteen shillings and two pence.</p>
+            <p>The borough of <hi>Forras,</hi> three pounds.</p>
+            <p>The county of <hi>Fife,</hi> four hundred and nine<g ref="char:EOLhyphen"/>teen pounds seventeen shillings and ten pence.</p>
+            <p>The county <hi>Kinross,</hi> eleven pounds three shillings and two pence.</p>
+            <pb n="13" facs="tcp:190672:7"/>
+            <p> The Borough of <hi>St. Andrews,</hi> thirty three pounds and six shillings.</p>
+            <p>The Borough of <hi>Dyssert,</hi> thirteen pounds nineteen shillings and ten pence.</p>
+            <p>The Borough of <hi>Kirkaldie,</hi> four and twen<g ref="char:EOLhyphen"/>ty pounds eight shillings and five pence.</p>
+            <p>The Borough of <hi>Cowper,</hi> ten pounds nine<g ref="char:EOLhyphen"/>teen shillings and seven pence farthing.</p>
+            <p>The Borough or <hi>Anstruther Easter,</hi> seven pounds nineteen shillings and seven pence half peny.</p>
+            <p>The Borough of <hi>Pitteinwein,</hi> six pounds thirteen shillings and two pence two far<g ref="char:EOLhyphen"/>things.</p>
+            <p>The Borough of <hi>Dumfernling,</hi> eight pounds fifteen shillings and three pence.</p>
+            <p>The Borough of <hi>Creil,</hi> ten pounds and nineteen shillings.</p>
+            <p>The Borough of <hi>Kinghorn,</hi> four pounds and ten shillings.</p>
+            <p>The Borough of <hi>Anstruther Wester,</hi> three pounds and nine shillings.</p>
+            <p>The Borough of <hi>Innerkething,</hi> four pounds nineteen shillings and nine pence.</p>
+            <p>The Borough of <hi>Kilrein,</hi> one pound ten shillings.</p>
+            <p>The Borough of <hi>Burnt-Island,</hi> ten pounds nineteen shillings and nine pence.</p>
+            <p>The County of <hi>Forfar,</hi> two hundred seven<g ref="char:EOLhyphen"/>ty and two pounds sixteen shillings and three pence.</p>
+            <p>The Borough of <hi>Forfar,</hi> two pounds one shilling and a peny.</p>
+            <p>The Borough of <hi>Dundee,</hi> threescore and nine pounds eighteen shillings and six pence farthing.</p>
+            <pb n="14" facs="tcp:190672:8"/>
+            <p> The Borough of <hi>Arbroth,</hi> Four pounds and ten shillings.</p>
+            <p>The Borough of <hi>Montross,</hi> Nineteen pounds nineteen shillings and seven pence two far<g ref="char:EOLhyphen"/>things.</p>
+            <p>The Borough of <hi>Birchin,</hi> Six pounds four<g ref="char:EOLhyphen"/>teen shillings and six pence.</p>
+            <p>The County of <hi>Hadington,</hi> Two hundred thirty and one pounds seventeen shillings and two pence.</p>
+            <p>The Borough of <hi>Hadington,</hi> Eighteen pounds and three pence farthing.</p>
+            <p>The Borough of <hi>Dumbar,</hi> Ten pounds nine<g ref="char:EOLhyphen"/>teen shillings and seven pence farthing.</p>
+            <p>The Borough of <hi>North-Berwick,</hi> Two pounds six shillings and ten pence.</p>
+            <p>The county of <hi>Innernes,</hi> Two hundred and fifteen pounds eighteen shillings and three pence.</p>
+            <p>The Borough of <hi>Innernes,</hi> Four and twenty pounds nineteen shillings and five pence.</p>
+            <p>The Borough of <hi>Train,</hi> four pounds nine<g ref="char:EOLhyphen"/>teen shillings and seven pence two far<g ref="char:EOLhyphen"/>things.</p>
+            <p>The Borough of <hi>Dingwal,</hi> Nineteen shil<g ref="char:EOLhyphen"/>lings and two pence two farthings.</p>
+            <p>The County of <hi>Kincardine,</hi> Fourscore and two pounds and one peny.</p>
+            <p>The County of <hi>Lanrick,</hi> Two hundred and sixty three pounds seventeen shillings and ten pence.</p>
+            <p>The Borough of <hi>Lanrick,</hi> Six pounds.</p>
+            <p>The City of <hi>Glasgow,</hi> Threescore and four pounds eighteen shillings and nine pence.</p>
+            <pb n="15" facs="tcp:190672:8"/>
+            <p> The Burrough of <hi>Rugline,</hi> Two pounds.</p>
+            <p>The County of <hi>Linlithgow,</hi> One hundred five pounds sixteen shillings six pence.</p>
+            <p>The Burrough of <hi>Queensferry,</hi> Four pounds one shilling.</p>
+            <p>The County of <hi>Narn,</hi> Twenty three pounds and three pence.</p>
+            <p>The Burrough of <hi>Narn,</hi> Two pound one shilling and two pence.</p>
+            <p>The County of <hi>Ortney</hi> and <hi>Zetland,</hi> Four<g ref="char:EOLhyphen"/>score and ten pounds fourteen shillings and two pence.</p>
+            <p>The County of <hi>Pebles,</hi> Fourscore and six pounds seventeen shillings and six pence.</p>
+            <p>The Burrough of <hi>Pebles,</hi> Four pounds nine<g ref="char:EOLhyphen"/>teen shillings and ten pence two farthings.</p>
+            <p>The County of <hi>Perth,</hi> Four hundred and nineteen pounds seventeen shillings and ten pence.</p>
+            <p>The Burrough of <hi>Coleross,</hi> Four pounds ten shillings.</p>
+            <p>The County of <hi>Ranthrow,</hi> One hundred and twelve pounds fifteen shillings and seven pence.</p>
+            <p>The Burrough of <hi>Ranthrow,</hi> Three pounds eighteen shillings and eleven pence.</p>
+            <p>The County of <hi>Roxburrough,</hi> Three hundred and seven pounds four shillings and nine pence two farthings.</p>
+            <p>The Burrough of <hi>Jedburgh,</hi> Eight pounds eighteen shillings and five pence.</p>
+            <p>The County of <hi>Sterling,</hi> One hundred fourty six pounds three shillings eight pence two far<g ref="char:EOLhyphen"/>things.</p>
+            <p>The Burrough of <hi>Sterling,</hi> Ten pounds nine<g ref="char:EOLhyphen"/>teen shillings and nine pence.</p>
+            <pb n="16" facs="tcp:190672:9"/>
+            <p> The County of <hi>Salkraig,</hi> Threescore and fif<g ref="char:EOLhyphen"/>teen pounds seven shillings and five pence.</p>
+            <p>The Burrough of <hi>Salkraig,</hi> Six pounds thir<g ref="char:EOLhyphen"/>teen shillings and two pence.</p>
+            <p>The County of <hi>Sotherland,</hi> Eight and twenty pounds.</p>
+            <p>The Burrough of <hi>Dornock,</hi> One pound nine shillings.</p>
+            <p>The County of <hi>Wigton</hi> and <hi>Kirkudbright,</hi> Two hundred twenty and three pounds five shillings and six pence.</p>
+            <p>The Burrough of <hi>Wigton,</hi> Six pounds nine<g ref="char:EOLhyphen"/>teen shillings and eleven pence.</p>
+            <p>The Burrough of <hi>Kirkudbright,</hi> Eight pounds and four pence.</p>
+            <p>The Borrough of <hi>White-horn,</hi> Two pounds.</p>
+            <p>The Burrough of <hi>New Galloway,</hi> Ten shil<g ref="char:EOLhyphen"/>lings.</p>
+            <p>The Burrough of <hi>Linlithgow,</hi> Seventeen pounds sixteen shillings and ten pence.</p>
+            <p>The Burrough of <hi>Perth,</hi> Nine and thirty pounds nineteen shillings and three pence.</p>
+            <p>And that the several and respective Commis<g ref="char:EOLhyphen"/>sioners and other persons mentioned, named, or Authorized in one Act of this present Parlia<g ref="char:EOLhyphen"/>ment, Entituled, <hi>An Act for the raising of Fifteen thousand pounds Sterling in <hi>Scotland,</hi>
+               </hi> and such others as are herein, or shall hereafter be named by this present Parliament shall be, and are here<g ref="char:EOLhyphen"/>by Authorized and Impowred in like manner, with the like Authorities and Powers for the putting in execution this present Act, to the in<g ref="char:EOLhyphen"/>tents and purposes aforesaid. And that all the respective Authorities, Powers, Clauses, Mat<g ref="char:EOLhyphen"/>ters and Provisions mentioned in the said Act for Taxing, Levying and paying the afore<g ref="char:EOLhyphen"/>said
+<pb n="17" facs="tcp:190672:9"/> Sum of fifteen thousand pounds, shall be, and are hereby revived and made of full force, Authority and virtue, for the bringing in the Assessment by this Act appointed and di<g ref="char:EOLhyphen"/>rected.</p>
+            <p>And it is further Enacted by the Authority aforesaid, That the time of the meetings of the respective Commissioners in their respective Counties, Cities, Towns, and Places, and the respective times and daies of Collecting, Le<g ref="char:EOLhyphen"/>vying, and paying in the respective Sums, by this Act appointed to be Collected and Paid, shall be, and are hereby declared to be, the same that are appointed in this present Act in relati<g ref="char:EOLhyphen"/>on to the Assessment of <hi>England.</hi>
+            </p>
+            <p>And be it further Enacted by the Authority aforesaid, That the sum of Nine thousand pounds by the Moneth, shall be Assessed, Tax<g ref="char:EOLhyphen"/>ed, Collected, Levyed, and Paid in and out of <hi>Ireland,</hi> and the Dominions thereunto belong<g ref="char:EOLhyphen"/>ing, for and during the Term of three years, commencing the Four and twentieth of <hi>June,</hi> One thousand six hundred fifty and seven, and ending the Four and twentieth of <hi>June,</hi> One thousand six hundred and sixty, according to the Rules and Proportions hereafter mentioned; That is to say, for every three Moneths, (ac<g ref="char:EOLhyphen"/>counting twelve Moneths to the Year,)</p>
+            <p>Vpon the County of <hi>Dublin,</hi> the sum of One thousand and eighty pounds.</p>
+            <p>Vpon the City and County of the City of <hi>Dublin,</hi> the sum of seven hundred and twenty pounds.</p>
+            <p>Vpon the County of <hi>Kildare,</hi> the sum of Five hundred and ninety pounds.</p>
+            <pb n="18" facs="tcp:190672:10"/>
+            <p> Vpon the County of <hi>Catherlogh,</hi> the sum of Two hundred pounds.</p>
+            <p>Vpon the <hi>Kings County,</hi> the sum of Two hun<g ref="char:EOLhyphen"/>dred and fourty pounds.</p>
+            <p>Vpon the <hi>Queens County,</hi> the sum of Three hundred and sixty pounds.</p>
+            <p>Vpon the County of <hi>Longford,</hi> the sum of One hundred and five pounds.</p>
+            <p>Vpon the County of <hi>East Meath,</hi> the sum of One thousand nine hundred and three pounds eighteen shillings.</p>
+            <p>Vpon the County of <hi>West Meath,</hi> the sum of Five hundred seventy three pounds.</p>
+            <p>Vpon the County of <hi>Kilkenny,</hi> the sum of One thousand four hundred eighty two pounds ten shillings.</p>
+            <p>Vpon the County of <hi>Wexford,</hi> the sum of six hundred pounds.</p>
+            <p>Vpon the County of <hi>Wicklo,</hi> the sum of One hundred and twenty pounds.</p>
+            <p>Vpon the County of <hi>Louth,</hi> with the Town of <hi>Tredagh,</hi> the sum of Five hundred and ninety pounds twelve shillings.</p>
+            <p>Vpon the County of <hi>Limrick,</hi> with the City and County thereof, the sum of nine hundred fifty six pounds sixteen shillings.</p>
+            <p>Vpon the County of <hi>Cork,</hi> with the City and County thereof, the summe of three thousand three hundred sixty pounds eighteen shillings.</p>
+            <p>Vpon the County of <hi>Waterford,</hi> with the City and County thereof, the sum of One thousand one hundred and twenty pounds.</p>
+            <p>Vpon the County of <hi>Clare,</hi> the sum of seven hundred forty five pounds four shillings.</p>
+            <p>Vpon the County of <hi>Kerry,</hi> the sum of One hundred and eighty pounds.</p>
+            <pb n="19" facs="tcp:190672:10"/>
+            <p> Vpon the County of <hi>Tipperary,</hi> including <hi>Holicross,</hi> the sum of One thousand six hundred and ten pounds.</p>
+            <p>Vpon the County of <hi>Dovegol,</hi> the sum of One thousand one hundred forty three pounds.</p>
+            <p>Vpon the County of <hi>Tirone,</hi> the sum of Five hundred and fifty pounds.</p>
+            <p>Vpon the County of <hi>Fermahagh,</hi> the sum of Three hundred pounds.</p>
+            <p>Vpon the County of <hi>Cavan,</hi> the sum of One hundred seventy three pounds.</p>
+            <p>Vpon the County of <hi>Monham,</hi> the sum of One hundred fifty five pounds two shillings.</p>
+            <p>Vpon the County of <hi>Antrim</hi> and the Town of <hi>Carricfergus,</hi> the sum of One thousand seven hundred sixty three pounds.</p>
+            <p>Vpon the County of <hi>Down,</hi> the sum of One thousand four hundred sixty six pounds.</p>
+            <p>Vpon the County of <hi>Ardmah,</hi> the sum of three hundred and fourty pounds.</p>
+            <p>Vpon the County of <hi>London Derry,</hi> and the City and County thereof, and the Town and Barony of <hi>Colerane,</hi> the sum of One thousand and twelve pounds.</p>
+            <p>Vpon the County of <hi>Galloway,</hi> the sum of Two thousand and sixty pounds.</p>
+            <p>Vpon the County of <hi>Roscomon,</hi> the sum of Five hundred thirty three pounds.</p>
+            <p>Vpon the County of <hi>Sligo,</hi> the sum of Three hundred and sixty pounds.</p>
+            <p>Vpon the County of <hi>Mayo,</hi> the sum of Four hundred seventy seven pounds.</p>
+            <p>Vpon the County of <hi>Leitrim,</hi> the sum of One hundred and thirty pounds.</p>
+            <pb n="20" facs="tcp:190672:11"/>
+            <p> And to the end the said three years Assess<g ref="char:EOLhyphen"/>ment, may be more speedily, effectually, equally, and indifferently made and perfected;</p>
+            <p>Be it further Enacted by the Authority a<g ref="char:EOLhyphen"/>foresaid; That the Lord Deputy and Council of <hi>Ireland,</hi> or any three or more of them, shall be, and are hereby Authorized, and required forth<g ref="char:EOLhyphen"/>with, to nominate, constitute, and appoint, such Commissioners of Assessments, Collectors, and Receivers, for the Assessing, Taxing, Collect<g ref="char:EOLhyphen"/>ing, Levying, Receiving and Paying in the said three years Assessments, with the most equality, and indifferency that may be, both in relation to real and personal Estates, and such other thing and things therein, to do, execute, and perform, or order, direct, or cause to be done, executed, and performed, as they the said Lord Deputy and Council of <hi>Ireland,</hi> or so many of them, as shall act in the premisses, upon, and according to the Authority aforesaid, shall think meet, necessary and convenient.</p>
+            <p>And be it Enacted by the Authority aforesaid, That the said three years Assessments be paid into the hands of the Receiver General of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> according to the Rule following, that is to say, at the end of every three Moneths, during the said three years, the sum of Twenty seven thousand pounds, being three Moneths Assess<g ref="char:EOLhyphen"/>ments.</p>
+            <p>Provided alwaies, and be it Enacted, That the Taxes or Assessments now raised, or to be raised, by vertue of an Ordinance of His High<g ref="char:EOLhyphen"/>ness the Lord Protector, with the Advice of His Council, bearing date the three and twen<g ref="char:EOLhyphen"/>tieth day of <hi>June,</hi> One thousand six hundred
+<pb n="21" facs="tcp:190672:11"/> fifty four, Entituled, <hi>An Ordinance for the further encouragement of the Adventurers for lands in <hi>Ireland,</hi> and of the Souldiers and other Planters there,</hi> shall not be Assessed, Taxed, Collected, Levied, or Paid for any longer time, then untill the four and twentieth day of <hi>June,</hi> One thousand six hundred fifty seven, Any thing in the said Or<g ref="char:EOLhyphen"/>dinance to the contrary in any wise notwith<g ref="char:EOLhyphen"/>standing.</p>
+         </div>
+         <div type="text">
+            <pb n="22" facs="tcp:190672:12"/>
+            <head>Commissioners added to the former Com<g ref="char:EOLhyphen"/>missioners for the Monethly Assessment; For the County of </head>
+            <div type="part">
+               <head>Bedford.</head>
+               <p>
+                  <hi>Major General</hi> Bridge, John Walker, <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Berks.</head>
+               <p>
+                  <hi>General</hi> Desbrow.</p>
+            </div>
+            <div type="part">
+               <head>Bucks.</head>
+               <p>Edmund Stafford <hi>Esq;</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Cambridge.</head>
+               <p>Hezekia Haines <hi>Esquire,</hi> William Underwood <hi>Esquire, Alderman of</hi> London, Devereux Martin <hi>Esq;</hi> William Audley <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Isle of <hi>Ely.</hi>
+               </head>
+               <p>Laurence Oxborough, Samuel Fortrey, Hamond Ward, Robert Hampson <hi>Esquires,</hi> John Childe <hi>the younger, Gent.</hi> Anthony Balam, James Edwards <hi>the elder,</hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Edwards <hi>eldest Son of</hi> William Edwards <hi>deceased.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Cornwall.</head>
+               <p>Thomas Burrell <hi>Esq;</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Derby.</head>
+               <p>Henry Sacheverel <hi>Esq;</hi> George Harpur <hi>Esq;</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Devon.</head>
+               <p>Thomas Pyne <hi>Esq;</hi> James Pearse <hi>Esq; Capt.</hi> Francis Roll, John Were <hi>Esq;</hi> Robert Land <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the City and County of <hi>Exeter.</hi>
+               </head>
+               <p>The Mayor and Sheriff of the City and County for the time being.</p>
+            </div>
+            <div type="part">
+               <pb n="23" facs="tcp:190672:12"/>
+               <head>Dorset.</head>
+               <p>
+                  <hi>General</hi> Desberow, Edward Hooper, Robert Co<g ref="char:EOLhyphen"/>ker, Dennis Bond, William Laurence, Robert Tyd<g ref="char:EOLhyphen"/>derleight, John Newburgh, Giles Stoodly, Richard Newman, Edmund Butler, <hi>Esquires.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Durham.</head>
+               <p>
+                  <hi>Colonel</hi> Ralph Cobbet, Thomas Mitford, Richard Beke <hi>Esquires.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Essex.</head>
+               <p>Thomas Peek, John Shaw, <hi>
+                     <abbr>Esqs</abbr>: Sir</hi> Robert Kemp, William Kemp <hi>Esq;</hi> Richard Hurlakenden <hi>Esq;</hi> Walter Luckin <hi>Gent.</hi> Edward Hadsley <hi>Gent.</hi> John Vicars <hi>Gent.</hi> John Fenning <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Gloucester.</head>
+               <p>William Dutton, Martin Noel, Edmund Dunch, Thomas Chamberlain, Don Hodges, <hi>
+                     <abbr>Esqs</abbr>:</hi> Nicholas Web <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Hereford.</head>
+               <p>William Botterel, Higgings James, <hi>Esquires.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the City of <hi>Hereford.</hi>
+               </head>
+               <p>Richard Lyd.</p>
+            </div>
+            <div type="part">
+               <head>Hertford.</head>
+               <p>
+                  <hi>Colonel</hi> Philip Twisleton, Samuel Desburrow <hi>Esq;</hi> Edward Brisco, Thomas, Arris, <hi>
+                     <abbr>Esqs</abbr>
+                  </hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Huntington.</head>
+               <p>Henry Pickering <hi>Esq;</hi> Robert Hampson <hi>Esq;</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="24" facs="tcp:190672:13"/>
+               <head>Kent.</head>
+               <p>Philip Parker, Edward Honiwood, William Both<g ref="char:EOLhyphen"/>by, <hi>
+                     <abbr>Esqs</abbr>:</hi> Robert Seyliard <hi>Gent.</hi> John Seyliard <hi>of</hi> Pen<g ref="char:EOLhyphen"/>shurst <hi>Esq;</hi> Thomas Monnins, Thomas Wilton <hi>of</hi> Do<g ref="char:EOLhyphen"/>ver, Robert Maskal, Richard Rabson, Thomas Harri<g ref="char:EOLhyphen"/>son, Ralph Suckley <hi>of</hi> Cheveney, John Brown <hi>of</hi> Or<g ref="char:EOLhyphen"/>pington, Peter Peak <hi>of</hi> Ash, Martin Pike,</p>
+               <p>Frere <hi>of</hi> Renham, Richard Lancaster, Peter Hayman, John Wroth, Alexander Roberts, Jacob Turner, Tho<g ref="char:EOLhyphen"/>mas Young <hi>of</hi> Darente.</p>
+            </div>
+            <div type="part">
+               <head>For the City of <hi>Canterbury.</hi>
+               </head>
+               <p>Vincent Den, <hi>Captain</hi> Jones, Robert Maskal.</p>
+            </div>
+            <div type="part">
+               <head>Lancaster.</head>
+               <p>
+                  <hi>Colonel</hi> Edward Salmon.</p>
+            </div>
+            <div type="part">
+               <head>Leicester.</head>
+               <p>John Sherman, Thomas Goddard, Anthony Major, <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Lincoln.</hi>
+               </head>
+               <p>
+                  <hi>Colonel</hi> Philip Twisleton, Daniel Rhodes, <hi>Major</hi> Heaton, Francis Empson, John Askham.</p>
+            </div>
+            <div type="part">
+               <head>For the City of <hi>London.</hi>
+               </head>
+               <p>Griffith Bodurda <hi>Esq;</hi> Jeremiah Rouston, John Blackwell the elder <hi>Esq;</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Midlesex.</head>
+               <p>Richard Newman <hi>Esq;</hi> Elia Palmer, John Falkner, <hi>
+                     <abbr>Esqs</abbr>:</hi> Morris Gothin, Edmund Gage, <hi>Sir</hi> Thomas Vi<g ref="char:EOLhyphen"/>ner, <hi>Deputy</hi> William Hobson, William Kiffin, John Miller, <hi>Sir</hi> John Dethick <hi>Knight.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="25" facs="tcp:190672:13"/>
+               <head>Westminster.</head>
+               <p>John Stone <hi>Esq;</hi> Jarvace Bennet, <hi>Col.</hi> Stephen Vinthorp, Christopher Lyster, Kellway Guider, <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Nottingham.</head>
+               <p>
+                  <hi>Col.</hi> Philip Twisleton.</p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Norfolk.</hi>
+               </head>
+               <p>John Reynes, Simond Smith, Gabriel Barber, Sa<g ref="char:EOLhyphen"/>muel Prentice, John Pike, Owen Palmer, Bernard Ut<g ref="char:EOLhyphen"/>ber, <hi>jun.</hi> Thomas Manfield, Robert Waters, Thomas Dixon, John Smith, Thomas Dun, Laurence Oxbo<g ref="char:EOLhyphen"/>rough, Clement Spilman, Samuel Smith, Robert Lane, Edward Barber, <hi>and</hi> John Spilman, James Long, Matthew Long, Thomas Green <hi>of</hi> Lyn <hi>Merchant.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the City of <hi>Norwich.</hi>
+               </head>
+               <p>Samuel Pulke, Richard Brown, Giles Wood.</p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Northampton.</hi>
+               </head>
+               <p>Henry Pickering <hi>Esq;</hi> Williams Rainsborow <hi>Esq;</hi> William Say <hi>Esq;</hi> Robert Henley <hi>Esq;</hi> Baldwin Arthur <hi>Esq;</hi> Richard Robins <hi>Gent.</hi> Miles Fleet<g ref="char:EOLhyphen"/>wood <hi>Esq;</hi> Arthur Samuel <hi>Esq;</hi> William Garret <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Northumberland.</head>
+               <p>John Hearon, Thomas Boultflower.</p>
+            </div>
+            <div type="part">
+               <head>Salop.</head>
+               <p>William Jones <hi>Esq; Recorder of</hi> Shrewsbury.</p>
+            </div>
+            <div type="part">
+               <pb n="26" facs="tcp:190672:14"/>
+               <head>For the City and County of the City of <hi>Bristol.</hi>
+               </head>
+               <p>William Can, Richard Baldman, Robert Purnel, Thomas Ellis, <hi>
+                     <abbr>Esqs</abbr>:</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Southampton.</head>
+               <p>George Whither <hi>of</hi> Hall, <hi>Esq;</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Somerset.</head>
+               <p>
+                  <hi>Sir</hi> John Coppleston <hi>Knight,</hi> Thomas Allen <hi>Gent.</hi> John Web <hi>Esq;</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Staffordshire.</head>
+               <p>John Birch <hi>of</hi> Cannock.</p>
+            </div>
+            <div type="part">
+               <head>Suffolk.</head>
+               <p>
+                  <hi>Sir</hi> Edmund Bacon <hi>Baronet,</hi> Robert Lane, Ro<g ref="char:EOLhyphen"/>bert Stewart, William Underwood <hi>Alderman of</hi> Lon<g ref="char:EOLhyphen"/>don, Arthur Samuel, John Trenchard, <hi>
+                     <abbr>Esqs</abbr>:</hi> George Gascoign, John Hurst, <hi>Gent.</hi> John Brandling <hi>Esq<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> Essington, John Howis, <hi>Gent.</hi> George Reve <hi>Esq;</hi> Ro<g ref="char:EOLhyphen"/>bert Gurdon, John Shepheard, <hi>
+                     <abbr>Esqs</abbr>:</hi> Roger Kerrington <hi>Gent.</hi> Robert Knowls.</p>
+            </div>
+            <div type="part">
+               <head>Sussex.</head>
+               <p>
+                  <hi>The Mayor of</hi> Chichester <hi>for the time being,</hi> Alexander Wilson, John Clerk, <hi>
+                     <abbr>Esqs</abbr>:</hi> Edmund Blake, Thomas Bernard <hi>of</hi> Petworth, Christopher Coles, William Baldwin, <hi>Gent.</hi> William Yalden <hi>the young<g ref="char:EOLhyphen"/>er Esq;</hi> Nicholas Dullender <hi>Gent.</hi> Francis Selwin <hi>Esq;</hi> George Taileur, George Hide, Thomas Southton.</p>
+            </div>
+            <div type="part">
+               <head>Surrey.</head>
+               <p>William Daniel, Samuel Rous, <hi>Esq;</hi> Charls Craiker <hi>Gent.</hi> Richard Downs <hi>Esq;</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:190672:14"/>
+               <head>Warwick.</head>
+               <p>Thomas Rawlins <hi>Esq;</hi> Samuel Eboral, William Fetherston.</p>
+            </div>
+            <div type="part">
+               <head>Wilts.</head>
+               <p>Edward Bainton, John Bulkley, <hi>Esq;</hi> Henry Hun<g ref="char:EOLhyphen"/>gerford, George Cooper, John Ernley, Richard Grub<g ref="char:EOLhyphen"/>bam How, George Grubbam How, Isaac Burges, Ed<g ref="char:EOLhyphen"/>ward Duke, William Stone, Robert Good, Henry Eyre, Thomas Bayley, Peter Legay, Edward St. Barbe, James Abbot, Humphrey Ditton <hi>the Elder,</hi> John Randal, Richard Phelps, Thomas Wyat, John Ste<g ref="char:EOLhyphen"/>phens <hi>of the</hi> Devizes, Robert Eyre, Francis Bennet, John Frowd <hi>of</hi> Sedg-hill, Michael Beach, Ephraim Westley, Francis Craddock, John Ridonte, Thomas Ray, Thomas Escours <hi>of</hi> Pinkney, <hi>
+                     <abbr>Esqs</abbr>:</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Westmerland.</head>
+               <p>Thomas Sands <hi>Esq; Captain</hi> Sedgwick.</p>
+            </div>
+            <div type="part">
+               <head>Hull.</head>
+               <p>
+                  <hi>Lieutenant Colonel</hi> Richard Elton, <hi>Captain</hi> George Westby, John Northend, Robert Berrier, Wil<g ref="char:EOLhyphen"/>liam Masters.</p>
+            </div>
+            <div type="part">
+               <head>Breccon.</head>
+               <p>Hoo Games, William Morgan, William Jones <hi>of</hi> Buckland, <hi>
+                     <abbr>Esqs</abbr>
+                  </hi> John Games <hi>of</hi> Canvigan, Hugh Williams, <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:190672:15"/>
+               <head>Carmarthen.</head>
+               <p>John Vaughan <hi>of</hi> Llanelly, Henry Middleton, Humphrey Brown, William Lloid, Morgan Jones, John Vaughan <hi>of</hi> Derllysk, Richard Prothero, Jenkin Daukins, <hi>
+                     <abbr>Esqs</abbr>
+                  </hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Carnarvan.</head>
+               <p>
+                  <hi>Sir</hi> William Williams <hi>Baronet,</hi> William Vaugh<g ref="char:EOLhyphen"/>an, William Griffith <hi>
+                     <abbr>Esqs</abbr>:</hi> William Glyne <hi>of</hi> Llyer <hi>Esq;</hi> Griffith Vaughan <hi>Gent.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Denbigh.</head>
+               <p>John Jeffreys, John Lloyd, Edward Puleston, Ed<g ref="char:EOLhyphen"/>ward Morris, Peter Moyle, <hi>
+                     <abbr>Esqs</abbr>:</hi> John Price.</p>
+            </div>
+            <div type="part">
+               <head>Glamorgan.</head>
+               <p>
+                  <hi>Sir</hi> Edward Mansel <hi>Baronet,</hi> David Evans <hi>Gent.</hi> Edmund Gamage, Robert Thomas, <hi>
+                     <abbr>Esqs</abbr>:</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Pembroke.</head>
+               <p>Reeve Williams <hi>Esq;</hi> Mervin Cannon, Rowland Gething, John Wingfield, <hi>
+                     <abbr>Esqs</abbr>:</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highness, 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
